@@ -1,0 +1,4 @@
+# Gitに改行コードを変換させない(core.autocrlfよりも優先される)
+* -text
+.gitattributes       export-ignore
+.gitignore           export-ignore
